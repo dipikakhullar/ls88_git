@@ -1,1 +1,2 @@
-Josh's favorite food is pho
+Kate.
+My favorite food is pasta.
