@@ -7,6 +7,8 @@ Chris's favorite food is brisket
 
 Josh's favorite food is pho
 
+Arnav's favorite food is buffalo wings
+
 Jae's favorite food is tofu stew
 
 Kai's favorite food is chicken & broccoli
