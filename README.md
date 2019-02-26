@@ -7,6 +7,8 @@ Chris's favorite food is brisket
 
 Josh's favorite food is pho
 
+Masha's favorite food is risotto
+
 Anika's favorite food is sushi
 
 Arnav's favorite food is buffalo wings
