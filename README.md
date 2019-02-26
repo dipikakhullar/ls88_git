@@ -21,6 +21,8 @@ Kai's favorite food is chicken & broccoli
 
 Jordan Bailey, my favorite food is pizza.
 
+Dipika Khullar, my favorite food is pasta.
+
 Hasan's favorite food is pizza 
 
 Adrienne likes pineapples
