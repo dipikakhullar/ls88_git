@@ -1,4 +1,6 @@
 
+Kate- My favorite food is pasta.
+
 Jamie's favorite food is sushi
 
 Anna's favorite food is pasta
