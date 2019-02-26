@@ -7,6 +7,8 @@ Chris's favorite food is brisket
 
 Josh's favorite food is pho
 
+Anika's favorite food is sushi
+
 Arnav's favorite food is buffalo wings
 
 Jae's favorite food is tofu stew
@@ -20,6 +22,5 @@ Hasan's favorite food is pizza
 Adrienne likes pineapples
 
 Eric's favorite food is ramen
-
 
 
